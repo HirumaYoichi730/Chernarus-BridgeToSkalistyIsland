@@ -9,7 +9,7 @@ So, the only things that are in this file is the following:
 
 1: 20x StaticObj_Bridge_Stone_25.
 2: 5x Bonfire.
-3: 4x Land_Castle_Donjon
+3: 4x Land_Castle_Donjon.
 
 
 So the bridge is located Southeast of Tulga at the coast. There is a bonfire on the ground at these cordinates: 12990 / 3811. If you type in
